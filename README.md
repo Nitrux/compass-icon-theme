@@ -23,3 +23,5 @@ Install
 
 * Move the folder *Compass* or *Compass-KDE* to `/usr/share/icons` for all environments or *Compass* `~/.icons` for GTK based environments and *Compass-KDE* `~/.local/share/icons` for Plasma 5.
 * And finally select the theme in the Settings.
+
+©2014-2017 Nitrux. All rights reserved
