@@ -4,9 +4,9 @@ Compass (icon theme) - Upstream repository
 ![Compass preview](http://orig05.deviantart.net/2a30/f/2015/012/7/c/compass_by_deviantn7k1-d6eobzq.png " Compass is the alternative icon theme for Nitrux. Add quality to your project with these neat icons that'll bring your desktop to life.")
 >  Compass is the alternative icon theme for Nitrux. Add quality to your project with these neat icons that'll bring your desktop to life.
 
-Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+Icons are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-* Check **LICENSE** file inside the package for more information.
+* Check **COPYING** file inside the package for more information.
 
 Download
 ========
